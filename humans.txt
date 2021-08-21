@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Yong Lee, email address, twitter handle
 
 # THANKS
 
